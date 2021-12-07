@@ -1,6 +1,10 @@
 # awesome-vision-language-pretraining-papers
 
-[Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf)
+[Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf) 
+
+[Florence: A New Foundation Model for Computer Vision](https://arxiv.org/pdf/2111.11432.pdf)
+
+
 
 ## ICCV 2021
 

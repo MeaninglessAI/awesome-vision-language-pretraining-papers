@@ -4,7 +4,7 @@
 
 [Florence: A New Foundation Model for Computer Vision](https://arxiv.org/pdf/2111.11432.pdf)
 
-
+DenseCLIP: Extract Free Dense Labels from CLIP
 
 ## ICCV 2021
 

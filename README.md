@@ -6,6 +6,10 @@
 
 DenseCLIP: Extract Free Dense Labels from CLIP
 
+[Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/pdf/2112.04478.pdf)
+
+
+
 ## ICCV 2021
 
 [TACo: Token-aware Cascade Contrastive Learning for Video-Text Alignment](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_TACo_Token-Aware_Cascade_Contrastive_Learning_for_Video-Text_Alignment_ICCV_2021_paper.pdf)

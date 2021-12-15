@@ -17,3 +17,7 @@ DenseCLIP: Extract Free Dense Labels from CLIP
 [Product1M: Towards Weakly Supervised Instance-Level Product Retrieval
 via Cross-Modal Pretraining](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhan_Product1M_Towards_Weakly_Supervised_Instance-Level_Product_Retrieval_via_Cross-Modal_Pretraining_ICCV_2021_paper.pdf)
 
+## video
+
+[A straightforward framework for video retrieval using clip](https://arxiv.org/pdf/2102.12443.pdf)
+

@@ -4,7 +4,9 @@
 
 [Florence: A New Foundation Model for Computer Vision](https://arxiv.org/pdf/2111.11432.pdf)
 
-DenseCLIP: Extract Free Dense Labels from CLIP
+[DenseCLIP: Extract Free Dense Labels from CLIP](https://arxiv.org/pdf/2112.01071.pdf)
+
+[DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting](https://arxiv.org/pdf/2112.01518.pdf)
 
 [Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/pdf/2112.04478.pdf)
 

@@ -10,7 +10,7 @@
 
 [Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/pdf/2112.04478.pdf)
 
-
+[web GPT](https://openai.com/blog/improving-factual-accuracy/)
 
 ## ICCV 2021
 

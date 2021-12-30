@@ -27,3 +27,7 @@ via Cross-Modal Pretraining](https://openaccess.thecvf.com/content/ICCV2021/pape
 
 [A Simple Baseline for Zero-shot Semantic Segmentation with
 Pre-trained Vision-language Model](https://arxiv.org/pdf/2112.14757.pdf)
+
+[A FISTFUL OF WORDS: LEARNING TRANSFERABLE VISUAL
+MODELS
+FROM BAG-OF-WORDS SUPERVISION](https://arxiv.org/pdf/2112.13884.pdf)

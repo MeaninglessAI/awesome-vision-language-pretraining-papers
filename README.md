@@ -31,3 +31,5 @@ Pre-trained Vision-language Model](https://arxiv.org/pdf/2112.14757.pdf)
 [A FISTFUL OF WORDS: LEARNING TRANSFERABLE VISUAL
 MODELS
 FROM BAG-OF-WORDS SUPERVISION](https://arxiv.org/pdf/2112.13884.pdf)
+
+[Self-training with Noisy Student improves ImageNet classification](https://arxiv.org/pdf/1911.04252.pdf)

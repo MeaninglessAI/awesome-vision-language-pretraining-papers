@@ -23,3 +23,7 @@ via Cross-Modal Pretraining](https://openaccess.thecvf.com/content/ICCV2021/pape
 
 [A straightforward framework for video retrieval using clip](https://arxiv.org/pdf/2102.12443.pdf)
 
+## downstream tasks
+
+[A Simple Baseline for Zero-shot Semantic Segmentation with
+Pre-trained Vision-language Model](https://arxiv.org/pdf/2112.14757.pdf)

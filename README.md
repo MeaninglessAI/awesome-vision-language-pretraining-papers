@@ -33,3 +33,9 @@ MODELS
 FROM BAG-OF-WORDS SUPERVISION](https://arxiv.org/pdf/2112.13884.pdf)
 
 [Self-training with Noisy Student improves ImageNet classification](https://arxiv.org/pdf/1911.04252.pdf)
+
+## self-supervisied learning papers
+
+[Bootstrap Your Own Latent
+A New Approach to Self-Supervised Learning](https://arxiv.org/pdf/2006.07733.pdf)
+

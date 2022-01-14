@@ -14,3 +14,6 @@ Learning with Missing Labels](https://arxiv.org/pdf/2112.07368.pdf)
 [Noise-Aware Fully Webly Supervised Object Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shen_Noise-Aware_Fully_Webly_Supervised_Object_Detection_CVPR_2020_paper.pdf)
 
 [Webly Supervised Learning of Convolutional Networks](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Chen_Webly_Supervised_Learning_ICCV_2015_paper.pdf)
+
+[Webly Supervised Image Classification with
+Self-Contained Confidence](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530766.pdf)

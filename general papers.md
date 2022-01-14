@@ -7,3 +7,7 @@
 
 [Simple and Robust Loss Design for Multi-Label
 Learning with Missing Labels](https://arxiv.org/pdf/2112.07368.pdf)
+
+
+[Webly Supervised Image Classification with Metadata:
+Automatic Noisy Label Correction via Visual-Semantic Graph] (https://arxiv.org/pdf/2010.05864.pdf)

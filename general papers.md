@@ -12,3 +12,5 @@ Learning with Missing Labels](https://arxiv.org/pdf/2112.07368.pdf)
 [Webly Supervised Image Classification with Metadata: Automatic Noisy Label Correction via Visual-Semantic Graph](https://arxiv.org/pdf/2010.05864.pdf)
 
 [Noise-Aware Fully Webly Supervised Object Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shen_Noise-Aware_Fully_Webly_Supervised_Object_Detection_CVPR_2020_paper.pdf)
+
+[Webly Supervised Learning of Convolutional Networks](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Chen_Webly_Supervised_Learning_ICCV_2015_paper.pdf)

@@ -17,3 +17,5 @@ Learning with Missing Labels](https://arxiv.org/pdf/2112.07368.pdf)
 
 [Webly Supervised Image Classification with
 Self-Contained Confidence](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530766.pdf)
+
+[Multi-Label Learning from Single Positive Labels](https://arxiv.org/pdf/2106.09708.pdf)

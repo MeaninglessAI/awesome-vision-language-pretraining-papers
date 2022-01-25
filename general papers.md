@@ -19,3 +19,5 @@ Learning with Missing Labels](https://arxiv.org/pdf/2112.07368.pdf)
 Self-Contained Confidence](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530766.pdf)
 
 [Multi-Label Learning from Single Positive Labels](https://arxiv.org/pdf/2106.09708.pdf)
+
+[A ConvNet for the 2020s](https://arxiv.org/pdf/2201.03545.pdf)

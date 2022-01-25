@@ -20,4 +20,4 @@ Self-Contained Confidence](https://www.ecva.net/papers/eccv_2020/papers_ECCV/pap
 
 [Multi-Label Learning from Single Positive Labels](https://arxiv.org/pdf/2106.09708.pdf)
 
-[A ConvNet for the 2020s](https://arxiv.org/pdf/2201.03545.pdf)
+[A ConvNet for the 2020s](https://arxiv.org/pdf/2201.03545.pdf) [code](https://github.com/facebookresearch/ConvNeXt)

@@ -14,6 +14,8 @@
 
 [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/pdf/2201.12086.pdf) [code](https://github.com/salesforce/BLIP)
 
+[Corrupted Image Modeling for Self-Supervised Visual Pre-Training](https://arxiv.org/pdf/2202.03382.pdf)
+
 ## ICCV 2021
 
 [TACo: Token-aware Cascade Contrastive Learning for Video-Text Alignment](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_TACo_Token-Aware_Cascade_Contrastive_Learning_for_Video-Text_Alignment_ICCV_2021_paper.pdf)

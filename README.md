@@ -15,6 +15,7 @@
 [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/pdf/2201.12086.pdf) [code](https://github.com/salesforce/BLIP)
 
 [Corrupted Image Modeling for Self-Supervised Visual Pre-Training](https://arxiv.org/pdf/2202.03382.pdf)
+[How to Understand Masked Autoencoder](https://arxiv.org/abs/2202.03670)
 
 ## ICCV 2021
 

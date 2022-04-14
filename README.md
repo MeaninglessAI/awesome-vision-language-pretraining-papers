@@ -49,4 +49,8 @@ A New Approach to Self-Supervised Learning](https://arxiv.org/pdf/2006.07733.pdf
 [laion-5b](https://laion.ai/laion-5b-a-new-era-of-open-large-scale-multi-modal-datasets/)
 
 
+## blog
+
+[Cross-Model Learning for Video](https://zhuanlan.zhihu.com/p/498500639)
+
 

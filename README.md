@@ -44,3 +44,9 @@ FROM BAG-OF-WORDS SUPERVISION](https://arxiv.org/pdf/2112.13884.pdf)
 [Bootstrap Your Own Latent
 A New Approach to Self-Supervised Learning](https://arxiv.org/pdf/2006.07733.pdf)
 
+## dataset
+
+[laion-5b](https://laion.ai/laion-5b-a-new-era-of-open-large-scale-multi-modal-datasets/)
+
+
+

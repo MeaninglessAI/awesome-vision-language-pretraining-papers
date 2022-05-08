@@ -22,3 +22,8 @@ Self-Contained Confidence](https://www.ecva.net/papers/eccv_2020/papers_ECCV/pap
 
 [A ConvNet for the 2020s](https://arxiv.org/pdf/2201.03545.pdf) [code](https://github.com/facebookresearch/ConvNeXt)
 [Retrieval Augmented Classification for Long-Tail Visual Recognition](https://arxiv.org/abs/2202.11233)
+
+
+## video reid
+
+[BiCnet-TKS: Learning Efficient Spatial-Temporal Representation for Video Person Re-Identification](https://openaccess.thecvf.com/content/CVPR2021/papers/Hou_BiCnet-TKS_Learning_Efficient_Spatial-Temporal_Representation_for_Video_Person_Re-Identification_CVPR_2021_paper.pdf) [code](https://github.com/blue-blue272/BiCnet-TKS)

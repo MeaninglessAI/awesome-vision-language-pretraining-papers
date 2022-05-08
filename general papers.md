@@ -26,4 +26,29 @@ Self-Contained Confidence](https://www.ecva.net/papers/eccv_2020/papers_ECCV/pap
 
 ## video reid
 
-[BiCnet-TKS: Learning Efficient Spatial-Temporal Representation for Video Person Re-Identification](https://openaccess.thecvf.com/content/CVPR2021/papers/Hou_BiCnet-TKS_Learning_Efficient_Spatial-Temporal_Representation_for_Video_Person_Re-Identification_CVPR_2021_paper.pdf) [code](https://github.com/blue-blue272/BiCnet-TKS)
+
+CVPR 2021 [BiCnet-TKS: Learning Efficient Spatial-Temporal Representation for Video Person Re-Identification](https://openaccess.thecvf.com/content/CVPR2021/papers/Hou_BiCnet-TKS_Learning_Efficient_Spatial-Temporal_Representation_for_Video_Person_Re-Identification_CVPR_2021_paper.pdf) [code](https://github.com/blue-blue272/BiCnet-TKS)
+
+CVPR 2021 [Watching You: Global-Guided Reciprocal Learning for Video-Based Person Re-Identification](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Watching_You_Global-Guided_Reciprocal_Learning_for_Video-Based_Person_Re-Identification_CVPR_2021_paper.pdf)
+
+CVPR2021 [Spatial-Temporal Correlation and Topology Learning for Person Re-Identification in Videos](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Spatial-Temporal_Correlation_and_Topology_Learning_for_Person_Re-Identification_in_Videos_CVPR_2021_paper.pdf)
+
+
+
+ICCV 2021 [Dense Interaction Learning for Video-Based Person Re-Identification](https://openaccess.thecvf.com/content/ICCV2021/papers/He_Dense_Interaction_Learning_for_Video-Based_Person_Re-Identification_ICCV_2021_paper.pdf)
+
+ICCV 2021 [Pyramid Spatial-Temporal Aggregation for Video-Based Person Re-Identification](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Pyramid_Spatial-Temporal_Aggregation_for_Video-Based_Person_Re-Identification_ICCV_2021_paper.pdf)
+
+ICCV 2021 [Video-Based Person Re-Identification With Spatial and Temporal Memory Networks](https://openaccess.thecvf.com/content/ICCV2021/papers/Eom_Video-Based_Person_Re-Identification_With_Spatial_and_Temporal_Memory_Networks_ICCV_2021_paper.pdf)
+
+ICCV 2021 [Spatio-Temporal Representation Factorization for Video-Based Person Re-Identification](https://openaccess.thecvf.com/content/ICCV2021/papers/Aich_Spatio-Temporal_Representation_Factorization_for_Video-Based_Person_Re-Identification_ICCV_2021_paper.pdf)
+
+
+## occluded reid
+
+ICCV 2021 [Occluded Person Re-Identification With Single-Scale Global Representations](https://openaccess.thecvf.com/content/ICCV2021/papers/Yan_Occluded_Person_Re-Identification_With_Single-Scale_Global_Representations_ICCV_2021_paper.pdf)
+
+ICCV 2021 [Occlude Them All: Occlusion-Aware Attention Network for Occluded Person Re-ID](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Occlude_Them_All_Occlusion-Aware_Attention_Network_for_Occluded_Person_Re-ID_ICCV_2021_paper.pdf)
+
+CVPR2021 [Diverse Part Discovery: Occluded Person Re-Identification With Part-Aware Transformer
+](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Diverse_Part_Discovery_Occluded_Person_Re-Identification_With_Part-Aware_Transformer_CVPR_2021_paper.pdf)

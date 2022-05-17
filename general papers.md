@@ -52,3 +52,5 @@ ICCV 2021 [Occlude Them All: Occlusion-Aware Attention Network for Occluded Pers
 
 CVPR2021 [Diverse Part Discovery: Occluded Person Re-Identification With Part-Aware Transformer
 ](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Diverse_Part_Discovery_Occluded_Person_Re-Identification_With_Part-Aware_Transformer_CVPR_2021_paper.pdf)
+
+CVPR 2021 [Partial Person Re-identification with Part-Part Correspondence Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/He_Partial_Person_Re-Identification_With_Part-Part_Correspondence_Learning_CVPR_2021_paper.pdf)
